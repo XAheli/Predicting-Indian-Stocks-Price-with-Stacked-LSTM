@@ -7,6 +7,8 @@ This Python project focuses on predicting Indian stock prices using a Stacked Lo
 
 ## Project Highlights:
 
+![Alt Text](https://github.com/XAheli/Predicting-Indian-Stocks-Price-with-Stacked-LSTM/blob/main/lstm.png)
+
 ### Stacked LSTM Model:
 - **Sequential Model:** Utilizes Keras' Sequential model for building the LSTM architecture.
 - **Stacked LSTM Layers:** Employs three LSTM layers stacked to capture intricate temporal patterns in stock prices.
