@@ -7,7 +7,7 @@ This Python project focuses on predicting Indian stock prices using a Stacked Lo
 
 ## Project Highlights:
 
-![Alt Text](https://github.com/XAheli/Predicting-Indian-Stocks-Price-with-Stacked-LSTM/blob/main/lstm.png)
+![The LSTM unit has four input weights (from the data to the input and three gates) and four recurrent weights (from the output to the input and the three gates). Peepholes are extra connections between the memory cell and the gates, but they do not increase the performance by much and are often omitted for simplicity. Image by Klaus Greff and colleagues as published in LSTM: A Search Space Odyssey](https://github.com/XAheli/Predicting-Indian-Stocks-Price-with-Stacked-LSTM/blob/main/lstm.png)
 
 ### Stacked LSTM Model:
 - **Sequential Model:** Utilizes Keras' Sequential model for building the LSTM architecture.
