@@ -1,5 +1,7 @@
 # Predicting Indian Stock Prices with Stacked LSTM
 
+https://github.com/XAheli/Predicting-Indian-Stocks-Price-with-Stacked-LSTM/blob/main/pred.png
+
 This Python project focuses on predicting Indian stock prices using a Stacked Long Short-Term Memory (LSTM) neural network model. It provides valuable insights into stock data for four prominent Indian companies: Reliance Industries, Tata Steel, HDFC Bank, and Infosys. Here's what you need to know:
 
 ## Project Highlights:
