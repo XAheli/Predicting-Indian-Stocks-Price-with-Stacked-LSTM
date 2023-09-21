@@ -1,5 +1,7 @@
 # Predicting Indian Stock Prices with Stacked LSTM
 
+If you find this project useful, don't forget to give it a star ⭐!
+
 ![Alt Text](https://github.com/XAheli/Predicting-Indian-Stocks-Price-with-Stacked-LSTM/raw/main/pred.png)
 
 
